@@ -13,4 +13,4 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /store/index.php [L]
 </IfModule>
 
-# END WordPress
+# END WordPresss
